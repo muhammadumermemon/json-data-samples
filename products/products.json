@@ -1,0 +1,4 @@
+[
+  { "id": 101, "name": "Laptop", "price": 999.99, "in_stock": true },
+  { "id": 102, "name": "Headphones", "price": 49.99, "in_stock": false }
+]
